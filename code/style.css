@@ -102,7 +102,6 @@ a {
 }
 
 /*---------------------------------------Search----------------------------------------------*/
-/*---------------------------------------Search----------------------------------------------*/
 .search {
     width: fit-content;
     margin-top: 7.5%;
@@ -634,4 +633,55 @@ a {
 
 .pkmn-grid-type {
     text-align: center;
+}
+
+/*-------------------------------------------------About Page-------------------------------------------------*/
+.about-header {
+    width: fit-content;
+    margin-top: 4.5%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.about-angels-pokedex {
+    width: fit-content;
+    margin-top: 0.5%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.clone-repo {
+    background: #151b23;
+    color: white;
+    font-family: consolas;
+    width: 50%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction: row;
+}
+
+.clone-repo-text {
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.copy-btn {
+    background: #151b23;
+    color: white;
+    margin-right: 2.5%;
+    border: none;
+    padding: 8px;
+    border-radius: 5px;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: background-color 0.3s ease;
+}
+
+.copy-btn:hover {
+    background: #26303d;
 }
