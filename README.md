@@ -24,9 +24,9 @@ A responsive web Pokédex built with HTML, CSS, and JavaScript that displays Pok
 
 ## Contact 📬
 Angel Robles Ortiz
-✉️ Email: angelroblesortiz.26@gmail.com
-💼 LinkedIn: www.linkedin.com/in/angel-robles-ortiz-187581286
-🌐 GitHub: @AngelRoblesOrtiz
+- ✉️ Email: angelroblesortiz.26@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/angel-robles-ortiz-187581286
+- 🌐 GitHub: @AngelRoblesOrtiz
 
 ## Acknowledgments 🙏
 - Pokémon and PokéAPI for the data
