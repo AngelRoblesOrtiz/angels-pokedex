@@ -2,8 +2,7 @@
 
 A responsive web Pokédex built with HTML, CSS, and JavaScript that displays Pokémon data. 
 
-👉 [Live Demo](https://angelroblesortiz.github.io/angels-pokedex/) 
-*(Add your actual deployment link when available)*
+👉 [Live Demo](https://angelroblesortiz.github.io/angels-pokedex/code/index.html) 
 
 ## Features ✨
 - Search Pokémon by name or ID
