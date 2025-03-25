@@ -4,20 +4,30 @@ A responsive web Pokédex built with HTML, CSS, and JavaScript that displays Pok
 
 👉 [Live Demo](https://angelroblesortiz.github.io/angels-pokedex/code/index.html) 
 
+![Pokédex Screenshot](./images/preview.png) <!-- Add your screenshot file and path here -->
+
 ## Features ✨
 - Search Pokémon by name or ID
 - Displays key stats (type, abilities, height/weight)
-- Clean, mobile-friendly UI
 - Visual type indicators (color-coded)
-- (Add any other special features you implemented)
+- Detailed Pokémon information display
 
 ## Technologies Used 🛠️
 - **Frontend**: HTML5, CSS3, JavaScript (ES6+)
 - **API**: [PokéAPI](https://pokeapi.co/) 
 - **Deployment**: GitHub Pages
-- (Add any libraries/frameworks if used, like Bootstrap, jQuery etc.)
 
 ## Installation & Usage 🚀
 1. Clone the repo:
    ```bash
    git clone https://github.com/AngelRoblesOrtiz/angels-pokedex.git
+
+## Contact 📬
+Angel Robles-Ortiz
+- ✉️ Email: angelroblesortiz.26@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/angel-robles-ortiz-187581286
+- 🌐 GitHub: @AngelRoblesOrtiz
+
+## Acknowledgments 🙏
+- Pokémon and PokéAPI for the data
+- Inspiration from other Pokédex projects
