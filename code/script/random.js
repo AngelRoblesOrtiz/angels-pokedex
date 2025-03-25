@@ -69,7 +69,7 @@ function getTypeImage(typeNames) {
     const name = typeNames[0];
     const {typeCode, type} = typeMap[name];
 
-    return `<img src="../../images/pokemonTypes/${typeCode}.png" alt="${type}">`;
+    return `<img src = "../images/pokemonTypes/${typeCode}.png" alt="${type}">`;
 }
 
 function getAbilities(abilities) {
