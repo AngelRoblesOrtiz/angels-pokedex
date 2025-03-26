@@ -362,9 +362,14 @@ a {
 }
 
 .pkmn-type-info-and-individuals {
+    background: #1f1f1f;
+    color: white !important;
     width: 40%;
     margin-top: 1%;
     margin-left: 2.5%;
+    padding: 2%;
+    border: solid 1px #1f1f1f;
+    border-radius: 10px;
 }
 
 .pkmn-type-individuals {
@@ -404,7 +409,7 @@ a {
 .download-button {
     background: #000EBF;
     padding: 1em 3em;
-    border: solid white;
+    border: solid #1f1f1f;
     border-radius: 5px;
 }
 
@@ -472,11 +477,19 @@ a {
 }
 
 .type-container-two {
-    margin-top: -37.5%;
+    background: #1f1f1f;
+    color: white !important;
+    width: fit-content;
+    height: fit-content;
+    margin-top: -42.5%;
+    margin-left: 1%;
+    padding: 1%;
+    border: solid 1px #1f1f1f;
+    border-radius: 10px;
 }
 
 .pkmn-type-info {   
-    width: 40em;
+    width: 39em;
     height: fit-content;
     margin-left: 1%;
 }
@@ -692,15 +705,6 @@ ul.about-angels-pokedex li a {
 
 ul.about-angels-pokedex li a:hover {
     color: #1abc9c;
-}
-
-/* Features and Technologies headers */
-h2 {
-    font-size: 1.5rem;
-    color: #2c3e50;
-    text-align: center;
-    margin-bottom: 1rem;
-    font-weight: 500;
 }
 
 h2.about-angels-pokedex {
